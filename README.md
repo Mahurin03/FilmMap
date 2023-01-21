@@ -1,5 +1,5 @@
-# Map showing the countries of origin for critics' picks in a BBC poll
+# Map showing the countries of origin for the films of the greatest 21st films in a BBC poll
 This interactive map is a project I did while studying the foundations of computational journalism in Data Journalism program at Columbia Journalism School in fall 2022. In this repository I have stored all the materials of the project. 
-I received guidance and help from my instructors **Jonathan Thirkield** and **Jonathan Soma** while doing this project. For that I thank.
+I received guidance and help from my instructors **Jonathan Thirkield** and **Jonathan Soma** while doing this project. I thank them for their help and patience.
 ## Overview and idea
-The British broadcaster BBC polled 177 film critics around the world and asked them to name top 10 films made since 2000. In total, the critics gave votes to 598 different films. BBC listed the following information 
+In 2016 the British broadcaster BBC invited 177 film critics around the world to name top 10 films made since 2000. BBC [listed in the results](https://www.bbc.com/culture/article/20160819-the-21st-centurys-100-greatest-films-who-voted) the names of the critics who participated, their home countries and how they voted. The critics voted for 598 different films. BBC listed the title, director and release year about the films. I decided to use this data to create an interactive map showing the countries of origin for the films in the poll. For that, I had to find the countries of origins for the films. For that, I used the [IMDB API](https://www.imdb.com/interfaces/) to get the countries of origin for the films. In total, the films came from 53 different countries.
