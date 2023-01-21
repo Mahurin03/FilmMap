@@ -1,4 +1,4 @@
-# Map showing the countries of origin for the films of the greatest 21st films in a BBC poll
+# Map showing the countries of origin for the 21st century's greatest films listed in a poll by the BBC
 This interactive map is a project I did while studying the foundations of computational journalism in Data Journalism program at Columbia Journalism School in fall 2022. In this repository I have stored all the materials of the project. 
 I received guidance and help from my instructors **Jonathan Thirkield** and **Jonathan Soma** while doing this project. I thank them for their help and patience.
 ## Overview and idea
